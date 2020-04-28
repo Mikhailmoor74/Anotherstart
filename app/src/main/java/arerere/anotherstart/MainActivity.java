@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity implements PopupMenu.OnMenuI
 
     private PopupMenu popupMenu;
 
+    // Остановился на 1.48.
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/bottomMenu"
+    android:title="Home"
+    android:icon="@drawable/abc_vector_test">
+</item>
+
+    <item android:id="@+id/bottomGit"
+        android:title="Git"
+        android:icon="@drawable/ic_launcher_foreground">
+
+
+
+    </item>
+
+    <item android:id="@+id/bottomABC"
+        android:title="ABC"
+        android:icon="@drawable/abc_vector_test">
+
+
+
+    </item>
+</menu>
